@@ -1,0 +1,75 @@
+/* styles.css */
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#home {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+#home h1 {
+  font-size: 2.5rem;
+  color: #343a40;
+}
+
+#introduction p,
+#featured p {
+  font-size: 1.2rem;
+  color: #6c757d;
+}
+
+#categories-section {
+  background-color: #ffffff;
+  padding: 50px 0;
+}
+
+#categories-section h2 {
+  font-size: 2rem;
+  color: #343a40;
+}
+
+#resources ul {
+  margin-top: 20px;
+}
+
+#about {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+#about h2 {
+  font-size: 2rem;
+  color: #343a40;
+}
+
+#contact p {
+  font-size: 1.1rem;
+  color: #6c757d;
+}
+
+/* Navbar custom styles */
+.navbar {
+  background-color: #212529;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.1rem;
+}
+
+/* Footer (optional) */
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
